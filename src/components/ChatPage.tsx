@@ -9,7 +9,7 @@ interface Message {
 }
 
 // 使用 Mastra API 端点
-const API_BASE_URL = 'http://localhost:4111';
+const API_BASE_URL = 'https://my-mastra-app.pages.dev';
 const AGENT_ID = 'catConsultantAgent';
 
 function ChatPage() {
